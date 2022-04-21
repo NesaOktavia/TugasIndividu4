@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "Compass",
-    "description": "A simple compass app built with expo & react-native.",
-    "githubUrl": "https://github.com/rahulhaque/compass-react-native-expo",
+    "description": "Aplikasi kompas dengan API Expo.",
+    "githubUrl": "https://github.com/nesaoktavia/TugasPamIndividu4",
     "slug": "compass",
     "platforms": [
       "ios",
@@ -15,21 +15,13 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "cover",
-      "backgroundColor": "#000"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "requireFullScreen": true,
-      "bundleIdentifier": "org.rahulhaque.compass"
-    },
-    "android": {
-      "package": "org.rahulhaque.compass"
-    }
+    ]
   }
 }

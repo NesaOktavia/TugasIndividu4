@@ -78,7 +78,6 @@ export default App = () => {
     }
   };
 
-  // Match the device top with pointer 0° degree. (By default 0° starts from the right of the device.)
   const _degree = (magnetometer) => {
     return magnetometer - 90 >= 0 ? magnetometer - 90 : magnetometer + 271;
   };
@@ -136,7 +135,6 @@ export default App = () => {
 
       <Row style={{ alignItems: 'center' }} size={1}>
         <Col style={{ alignItems: 'center' }}>
-          <Text style={{ color: '#fff' }}>Copyright @RahulHaque</Text>
         </Col>
       </Row>
 

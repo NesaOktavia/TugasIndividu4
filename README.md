@@ -1,23 +1,11 @@
-# Compass React Native 🧭 (Expo)
-A simple compass app built with expo & react-native. Non expo version can be found [here](https://github.com/rahulhaque/compass-react-native).
+Nama Aplikasi   : Compass
 
+Deskripsi Aplikasi  :
+Aplikasi ini adalah aplikasi penunjuk arah mata angin. Aplikasi ini dibangun dengan Expo SDK v43.
 
-## Description
-A very simple demonstration of how to use device's built in `Magnetometer` sensor to identify direction and calculate degree of angle. Built on Expo SDK version 43.
+Package yang digunakan adalah Magnetometer dari expo-sensors. Package Magnetometer ini digunakan untuk mengatur sensor Magnetometer yang biasanya ada di perangkat android untuk mengidentifikasi arah dan menghitung derajat sudut.
 
-
-## Run the App
-You can run the demo app from [Expo](https://expo.io/@rahulhaque/compass)
-
-or
-
-Clone or download the repository. `cd` into directory. Run `npm install` then `expo start`
-
-
-## Screenshots
-<img title="compass" src="https://github.com/rahulhaque/compass-react-native-expo/blob/master/screenshots/image.png" width="300"/>
-
-
-## More Info
-
-Spare a ⭐ to keep me motivated. 😃
+Cara install aplikasi:
+1. Bisa menjalankan demo app dengan aplikasi Expo Go di url https://expo.io/@rahulhaque/compass, dan anda dapat menscan qr code dengan aplikasi Expo Go.
+2. Clone atau download repositori ini. Lalu masuk ke direktori compass, lalu buka terminal, ketik dan jalankan `npm install`, lalu `expo start`. dan anda dapat menscan qr code dengan aplikasi Expo Go.
+3. Install apk yang tersedia di repositori ini di perangkat android anda. 
