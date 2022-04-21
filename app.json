@@ -2,7 +2,7 @@
   "expo": {
     "name": "Compass",
     "description": "Aplikasi kompas dengan API Expo.",
-    "githubUrl": "https://github.com/nesaoktavia/TugasPamIndividu4",
+    "githubUrl": "https://github.com/nesaoktavia/TugasIndividu4",
     "slug": "compass",
     "platforms": [
       "ios",
